@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sakshamdiy.in	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+sakshamdiy.in	TRUE	/	FALSE	1999999999	wp_woocommerce_session_bb9257929159a0d782b94446902944bf	t_a3e88d8e298e95d826357f5190c4b9%7C%7C1688109426%7C%7C1688105826%7C%7Cb79b901739b22c5d5ab9b105b6115be9
+sakshamdiy.in	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	2774%7C2765%7C2752%7C3740%7C3739%7C3783%7C3782%7C3737%7C3736%7C3735%7C3728%7C3724%7C3722%7C3721%7C3720
+sakshamdiy.in	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	135cddbb42af266192bb971069f5ab21
+
